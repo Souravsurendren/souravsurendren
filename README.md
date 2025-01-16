@@ -60,7 +60,7 @@
   <a href="https://shyamgsundhar2005.wixsite.com/shyamgsundhar">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio" height="30">
   </a>
-  <a href="mailto:shyamgsundhar@gmail.com">
+  <a href="mailto:souravsurendren@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" height="30">
   </a>
   <a href="https://leetcode.com/ShyamGSundhar/">
