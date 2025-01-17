@@ -1,79 +1,21 @@
 #  **Hello, I'm Sourav Surendran**  👋
 ## 🚀 **ML/DL Enthusiast | Currently working with Express | Backend Developer**
 
----
+# 💫 About Me:
+🔭 I’m currently working on Integration of Full Stack with ML model<br>👯 I’m looking to collaborate on more new ideas and innovations <br>🤝 I’m looking for help with Gen-AI concepts<br>🌱 I’m currently learning Express and DL
 
-### 💡 **About Me**  
-- 🌟 **Pursuing B.E CSE(AIML)** at **KPR Institute of Engineering and Technology**  
-- 🖥️ Experienced in **AI**, **ML**, **BackEnd Development** (Focus on **Express** & **PostgreSQL**)  
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **Computer Vision** 
-- 📘 Published research in **Sustainable Smart Cities**
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souravsurendran_4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souravsurendren) 
 
-### 🔧 **Tech Stack**  
-<p align="left">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30">
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=souravsurendren&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=souravsurendren&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=souravsurendren&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=souravsurendren&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💻 **My IDEs & Tools**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" height="30">
-  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat" height="30">
-</p>
-
----
-
-### 📈 **GitHub Stats**  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamgsundhar&show_icons=true&theme=radical" alt="Shyam's GitHub Stats" height="150" width="auto">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgsundhar&layout=compact&theme=radical" alt="Top Languages" height="150" width="auto">
-</p>
-
----
-
-### 🏆 **Achievements**  
-- 📚 Published research on **Smart Cities** and **Hybrid Classification Algorithms**  
-- 🏅 Earned certifications in **Machine Learning**, **Flutter Development**, and **Data Models**  
-- 🌟 Key contributor to **Full Stack Development** at **Techrodai**
-
----
-
-### 💻 **Current Roles**  
-- 🚗 **Mobile Application Developer** at **Ozotec EV**  
-- 💼 **Secretary** at **IEEE Computational Intelligence Society**  
-- 🤝 Freelancer, building cutting-edge mobile applications
-
----
-
-### 🌐 **Let's Connect**  
-<p align="left">
-  <a href="https://www.linkedin.com/in/souravsurendren">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="30">
-  </a>
-  <a href="https://shyamgsundhar2005.wixsite.com/shyamgsundhar">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio" height="30">
-  </a>
-  <a href="mailto:souravsurendren@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" height="30">
-  </a>
-  <a href="https://leetcode.com/ShyamGSundhar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" height="30">
-  </a>
-  <a href="https://www.hackerrank.com/shyamsundhar">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" height="30">
-  </a>
-</p>
-
----
-
-### 🌟 **Fun Fact**  
-> "Coding is like poetry; every line tells a story, every function has a rhythm!"  
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
